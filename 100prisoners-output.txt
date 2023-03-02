@@ -1,0 +1,212 @@
+   -----------------------------------------
+       0   1   2   3   4   5   6   7   8   9
+   0  70  57  12  29  64  81  93  49  53   7
+   1  32   3  61  42   4  74  51  83  56  28
+   2  63  39  80  18  84  15  48  44   9  16
+   3  54  76  59  96  82  95  73  69  87  13
+   4  34  47   2  31  38  40  99  26  97  91
+   5  60  41  21  10  68  14  65  11  52  66
+   6  77  98  86  50  92  90  25  71  75  33
+   7  45   6  23  79  55  67   0  62   1  17
+   8   8  58  19  46  94  24  88  35  20  78
+   9  36  43  85  27  89  30  37  72  22   5
+Loop 1:  Found 1 entries.   Loop=[93]
+Loop 2:  Found 2 entries.   Loop=[87, 61]
+Loop 3:  Found 2 entries.   Loop=[95, 64]
+Loop 4:  Found 7 entries.   Loop=[79, 63, 73, 48, 41, 52, 26]
+Loop 5:  Found 8 entries.   Loop=[94, 81, 56, 31, 75, 84, 74, 15]
+Loop 6:  Found 16 entries.   Loop=[22, 62, 69, 54, 40, 66, 96, 29, 45, 68, 76, 18, 58, 47, 21, 1]
+Loop 7:  Found 19 entries.   Loop=[72, 44, 14, 24, 67, 59, 34, 90, 7, 85, 4, 30, 33, 25, 55, 38, 98, 57, 2]
+Loop 8:  Found 22 entries.   Loop=[37, 86, 42, 11, 20, 17, 19, 8, 43, 65, 82, 83, 51, 97, 12, 35, 92, 49, 60, 13, 88, 3]
+Loop 9:  Found 23 entries.   Loop=[5, 89, 32, 71, 9, 36, 50, 91, 53, 99, 70, 16, 46, 10, 78, 39, 77, 80, 28, 6, 27, 23, 0]
+Found person 0 in box 23 after 23 attempts
+      person 0 found via [5, 89, 32, 71, 9, 36, 50, 91, 53, 99, 70, 16, 46, 10, 78, 39, 77, 80, 28, 6, 27, 23, 0]
+Found person 1 in box 21 after 16 attempts
+      person 1 found via [22, 62, 69, 54, 40, 66, 96, 29, 45, 68, 76, 18, 58, 47, 21, 1]
+Found person 2 in box 57 after 19 attempts
+      person 2 found via [72, 44, 14, 24, 67, 59, 34, 90, 7, 85, 4, 30, 33, 25, 55, 38, 98, 57, 2]
+Found person 3 in box 88 after 22 attempts
+      person 3 found via [37, 86, 42, 11, 20, 17, 19, 8, 43, 65, 82, 83, 51, 97, 12, 35, 92, 49, 60, 13, 88, 3]
+Found person 4 in box 85 after 19 attempts
+      person 4 found via [30, 33, 25, 55, 38, 98, 57, 2, 72, 44, 14, 24, 67, 59, 34, 90, 7, 85, 4]
+Found person 5 in box 0 after 23 attempts
+      person 5 found via [89, 32, 71, 9, 36, 50, 91, 53, 99, 70, 16, 46, 10, 78, 39, 77, 80, 28, 6, 27, 23, 0, 5]
+Found person 6 in box 28 after 23 attempts
+      person 6 found via [27, 23, 0, 5, 89, 32, 71, 9, 36, 50, 91, 53, 99, 70, 16, 46, 10, 78, 39, 77, 80, 28, 6]
+Found person 7 in box 90 after 19 attempts
+      person 7 found via [85, 4, 30, 33, 25, 55, 38, 98, 57, 2, 72, 44, 14, 24, 67, 59, 34, 90, 7]
+Found person 8 in box 19 after 22 attempts
+      person 8 found via [43, 65, 82, 83, 51, 97, 12, 35, 92, 49, 60, 13, 88, 3, 37, 86, 42, 11, 20, 17, 19, 8]
+Found person 9 in box 71 after 23 attempts
+      person 9 found via [36, 50, 91, 53, 99, 70, 16, 46, 10, 78, 39, 77, 80, 28, 6, 27, 23, 0, 5, 89, 32, 71, 9]
+Found person 10 in box 46 after 23 attempts
+      person 10 found via [78, 39, 77, 80, 28, 6, 27, 23, 0, 5, 89, 32, 71, 9, 36, 50, 91, 53, 99, 70, 16, 46, 10]
+Found person 11 in box 42 after 22 attempts
+      person 11 found via [20, 17, 19, 8, 43, 65, 82, 83, 51, 97, 12, 35, 92, 49, 60, 13, 88, 3, 37, 86, 42, 11]
+Found person 12 in box 97 after 22 attempts
+      person 12 found via [35, 92, 49, 60, 13, 88, 3, 37, 86, 42, 11, 20, 17, 19, 8, 43, 65, 82, 83, 51, 97, 12]
+Found person 13 in box 60 after 22 attempts
+      person 13 found via [88, 3, 37, 86, 42, 11, 20, 17, 19, 8, 43, 65, 82, 83, 51, 97, 12, 35, 92, 49, 60, 13]
+Found person 14 in box 44 after 19 attempts
+      person 14 found via [24, 67, 59, 34, 90, 7, 85, 4, 30, 33, 25, 55, 38, 98, 57, 2, 72, 44, 14]
+Found person 15 in box 74 after 8 attempts
+      person 15 found via [94, 81, 56, 31, 75, 84, 74, 15]
+Found person 16 in box 70 after 23 attempts
+      person 16 found via [46, 10, 78, 39, 77, 80, 28, 6, 27, 23, 0, 5, 89, 32, 71, 9, 36, 50, 91, 53, 99, 70, 16]
+Found person 17 in box 20 after 22 attempts
+      person 17 found via [19, 8, 43, 65, 82, 83, 51, 97, 12, 35, 92, 49, 60, 13, 88, 3, 37, 86, 42, 11, 20, 17]
+Found person 18 in box 76 after 16 attempts
+      person 18 found via [58, 47, 21, 1, 22, 62, 69, 54, 40, 66, 96, 29, 45, 68, 76, 18]
+Found person 19 in box 17 after 22 attempts
+      person 19 found via [8, 43, 65, 82, 83, 51, 97, 12, 35, 92, 49, 60, 13, 88, 3, 37, 86, 42, 11, 20, 17, 19]
+Found person 20 in box 11 after 22 attempts
+      person 20 found via [17, 19, 8, 43, 65, 82, 83, 51, 97, 12, 35, 92, 49, 60, 13, 88, 3, 37, 86, 42, 11, 20]
+Found person 21 in box 47 after 16 attempts
+      person 21 found via [1, 22, 62, 69, 54, 40, 66, 96, 29, 45, 68, 76, 18, 58, 47, 21]
+Found person 22 in box 1 after 16 attempts
+      person 22 found via [62, 69, 54, 40, 66, 96, 29, 45, 68, 76, 18, 58, 47, 21, 1, 22]
+Found person 23 in box 27 after 23 attempts
+      person 23 found via [0, 5, 89, 32, 71, 9, 36, 50, 91, 53, 99, 70, 16, 46, 10, 78, 39, 77, 80, 28, 6, 27, 23]
+Found person 24 in box 14 after 19 attempts
+      person 24 found via [67, 59, 34, 90, 7, 85, 4, 30, 33, 25, 55, 38, 98, 57, 2, 72, 44, 14, 24]
+Found person 25 in box 33 after 19 attempts
+      person 25 found via [55, 38, 98, 57, 2, 72, 44, 14, 24, 67, 59, 34, 90, 7, 85, 4, 30, 33, 25]
+Found person 26 in box 52 after 7 attempts
+      person 26 found via [79, 63, 73, 48, 41, 52, 26]
+Found person 27 in box 6 after 23 attempts
+      person 27 found via [23, 0, 5, 89, 32, 71, 9, 36, 50, 91, 53, 99, 70, 16, 46, 10, 78, 39, 77, 80, 28, 6, 27]
+Found person 28 in box 80 after 23 attempts
+      person 28 found via [6, 27, 23, 0, 5, 89, 32, 71, 9, 36, 50, 91, 53, 99, 70, 16, 46, 10, 78, 39, 77, 80, 28]
+Found person 29 in box 96 after 16 attempts
+      person 29 found via [45, 68, 76, 18, 58, 47, 21, 1, 22, 62, 69, 54, 40, 66, 96, 29]
+Found person 30 in box 4 after 19 attempts
+      person 30 found via [33, 25, 55, 38, 98, 57, 2, 72, 44, 14, 24, 67, 59, 34, 90, 7, 85, 4, 30]
+Found person 31 in box 56 after 8 attempts
+      person 31 found via [75, 84, 74, 15, 94, 81, 56, 31]
+Found person 32 in box 89 after 23 attempts
+      person 32 found via [71, 9, 36, 50, 91, 53, 99, 70, 16, 46, 10, 78, 39, 77, 80, 28, 6, 27, 23, 0, 5, 89, 32]
+Found person 33 in box 30 after 19 attempts
+      person 33 found via [25, 55, 38, 98, 57, 2, 72, 44, 14, 24, 67, 59, 34, 90, 7, 85, 4, 30, 33]
+Found person 34 in box 59 after 19 attempts
+      person 34 found via [90, 7, 85, 4, 30, 33, 25, 55, 38, 98, 57, 2, 72, 44, 14, 24, 67, 59, 34]
+Found person 35 in box 12 after 22 attempts
+      person 35 found via [92, 49, 60, 13, 88, 3, 37, 86, 42, 11, 20, 17, 19, 8, 43, 65, 82, 83, 51, 97, 12, 35]
+Found person 36 in box 9 after 23 attempts
+      person 36 found via [50, 91, 53, 99, 70, 16, 46, 10, 78, 39, 77, 80, 28, 6, 27, 23, 0, 5, 89, 32, 71, 9, 36]
+Found person 37 in box 3 after 22 attempts
+      person 37 found via [86, 42, 11, 20, 17, 19, 8, 43, 65, 82, 83, 51, 97, 12, 35, 92, 49, 60, 13, 88, 3, 37]
+Found person 38 in box 55 after 19 attempts
+      person 38 found via [98, 57, 2, 72, 44, 14, 24, 67, 59, 34, 90, 7, 85, 4, 30, 33, 25, 55, 38]
+Found person 39 in box 78 after 23 attempts
+      person 39 found via [77, 80, 28, 6, 27, 23, 0, 5, 89, 32, 71, 9, 36, 50, 91, 53, 99, 70, 16, 46, 10, 78, 39]
+Found person 40 in box 54 after 16 attempts
+      person 40 found via [66, 96, 29, 45, 68, 76, 18, 58, 47, 21, 1, 22, 62, 69, 54, 40]
+Found person 41 in box 48 after 7 attempts
+      person 41 found via [52, 26, 79, 63, 73, 48, 41]
+Found person 42 in box 86 after 22 attempts
+      person 42 found via [11, 20, 17, 19, 8, 43, 65, 82, 83, 51, 97, 12, 35, 92, 49, 60, 13, 88, 3, 37, 86, 42]
+Found person 43 in box 8 after 22 attempts
+      person 43 found via [65, 82, 83, 51, 97, 12, 35, 92, 49, 60, 13, 88, 3, 37, 86, 42, 11, 20, 17, 19, 8, 43]
+Found person 44 in box 72 after 19 attempts
+      person 44 found via [14, 24, 67, 59, 34, 90, 7, 85, 4, 30, 33, 25, 55, 38, 98, 57, 2, 72, 44]
+Found person 45 in box 29 after 16 attempts
+      person 45 found via [68, 76, 18, 58, 47, 21, 1, 22, 62, 69, 54, 40, 66, 96, 29, 45]
+Found person 46 in box 16 after 23 attempts
+      person 46 found via [10, 78, 39, 77, 80, 28, 6, 27, 23, 0, 5, 89, 32, 71, 9, 36, 50, 91, 53, 99, 70, 16, 46]
+Found person 47 in box 58 after 16 attempts
+      person 47 found via [21, 1, 22, 62, 69, 54, 40, 66, 96, 29, 45, 68, 76, 18, 58, 47]
+Found person 48 in box 73 after 7 attempts
+      person 48 found via [41, 52, 26, 79, 63, 73, 48]
+Found person 49 in box 92 after 22 attempts
+      person 49 found via [60, 13, 88, 3, 37, 86, 42, 11, 20, 17, 19, 8, 43, 65, 82, 83, 51, 97, 12, 35, 92, 49]
+Found person 50 in box 36 after 23 attempts
+      person 50 found via [91, 53, 99, 70, 16, 46, 10, 78, 39, 77, 80, 28, 6, 27, 23, 0, 5, 89, 32, 71, 9, 36, 50]
+Found person 51 in box 83 after 22 attempts
+      person 51 found via [97, 12, 35, 92, 49, 60, 13, 88, 3, 37, 86, 42, 11, 20, 17, 19, 8, 43, 65, 82, 83, 51]
+Found person 52 in box 41 after 7 attempts
+      person 52 found via [26, 79, 63, 73, 48, 41, 52]
+Found person 53 in box 91 after 23 attempts
+      person 53 found via [99, 70, 16, 46, 10, 78, 39, 77, 80, 28, 6, 27, 23, 0, 5, 89, 32, 71, 9, 36, 50, 91, 53]
+Found person 54 in box 69 after 16 attempts
+      person 54 found via [40, 66, 96, 29, 45, 68, 76, 18, 58, 47, 21, 1, 22, 62, 69, 54]
+Found person 55 in box 25 after 19 attempts
+      person 55 found via [38, 98, 57, 2, 72, 44, 14, 24, 67, 59, 34, 90, 7, 85, 4, 30, 33, 25, 55]
+Found person 56 in box 81 after 8 attempts
+      person 56 found via [31, 75, 84, 74, 15, 94, 81, 56]
+Found person 57 in box 98 after 19 attempts
+      person 57 found via [2, 72, 44, 14, 24, 67, 59, 34, 90, 7, 85, 4, 30, 33, 25, 55, 38, 98, 57]
+Found person 58 in box 18 after 16 attempts
+      person 58 found via [47, 21, 1, 22, 62, 69, 54, 40, 66, 96, 29, 45, 68, 76, 18, 58]
+Found person 59 in box 67 after 19 attempts
+      person 59 found via [34, 90, 7, 85, 4, 30, 33, 25, 55, 38, 98, 57, 2, 72, 44, 14, 24, 67, 59]
+Found person 60 in box 49 after 22 attempts
+      person 60 found via [13, 88, 3, 37, 86, 42, 11, 20, 17, 19, 8, 43, 65, 82, 83, 51, 97, 12, 35, 92, 49, 60]
+Found person 61 in box 87 after 2 attempts
+      person 61 found via [87, 61]
+Found person 62 in box 22 after 16 attempts
+      person 62 found via [69, 54, 40, 66, 96, 29, 45, 68, 76, 18, 58, 47, 21, 1, 22, 62]
+Found person 63 in box 79 after 7 attempts
+      person 63 found via [73, 48, 41, 52, 26, 79, 63]
+Found person 64 in box 95 after 2 attempts
+      person 64 found via [95, 64]
+Found person 65 in box 43 after 22 attempts
+      person 65 found via [82, 83, 51, 97, 12, 35, 92, 49, 60, 13, 88, 3, 37, 86, 42, 11, 20, 17, 19, 8, 43, 65]
+Found person 66 in box 40 after 16 attempts
+      person 66 found via [96, 29, 45, 68, 76, 18, 58, 47, 21, 1, 22, 62, 69, 54, 40, 66]
+Found person 67 in box 24 after 19 attempts
+      person 67 found via [59, 34, 90, 7, 85, 4, 30, 33, 25, 55, 38, 98, 57, 2, 72, 44, 14, 24, 67]
+Found person 68 in box 45 after 16 attempts
+      person 68 found via [76, 18, 58, 47, 21, 1, 22, 62, 69, 54, 40, 66, 96, 29, 45, 68]
+Found person 69 in box 62 after 16 attempts
+      person 69 found via [54, 40, 66, 96, 29, 45, 68, 76, 18, 58, 47, 21, 1, 22, 62, 69]
+Found person 70 in box 99 after 23 attempts
+      person 70 found via [16, 46, 10, 78, 39, 77, 80, 28, 6, 27, 23, 0, 5, 89, 32, 71, 9, 36, 50, 91, 53, 99, 70]
+Found person 71 in box 32 after 23 attempts
+      person 71 found via [9, 36, 50, 91, 53, 99, 70, 16, 46, 10, 78, 39, 77, 80, 28, 6, 27, 23, 0, 5, 89, 32, 71]
+Found person 72 in box 2 after 19 attempts
+      person 72 found via [44, 14, 24, 67, 59, 34, 90, 7, 85, 4, 30, 33, 25, 55, 38, 98, 57, 2, 72]
+Found person 73 in box 63 after 7 attempts
+      person 73 found via [48, 41, 52, 26, 79, 63, 73]
+Found person 74 in box 84 after 8 attempts
+      person 74 found via [15, 94, 81, 56, 31, 75, 84, 74]
+Found person 75 in box 31 after 8 attempts
+      person 75 found via [84, 74, 15, 94, 81, 56, 31, 75]
+Found person 76 in box 68 after 16 attempts
+      person 76 found via [18, 58, 47, 21, 1, 22, 62, 69, 54, 40, 66, 96, 29, 45, 68, 76]
+Found person 77 in box 39 after 23 attempts
+      person 77 found via [80, 28, 6, 27, 23, 0, 5, 89, 32, 71, 9, 36, 50, 91, 53, 99, 70, 16, 46, 10, 78, 39, 77]
+Found person 78 in box 10 after 23 attempts
+      person 78 found via [39, 77, 80, 28, 6, 27, 23, 0, 5, 89, 32, 71, 9, 36, 50, 91, 53, 99, 70, 16, 46, 10, 78]
+Found person 79 in box 26 after 7 attempts
+      person 79 found via [63, 73, 48, 41, 52, 26, 79]
+Found person 80 in box 77 after 23 attempts
+      person 80 found via [28, 6, 27, 23, 0, 5, 89, 32, 71, 9, 36, 50, 91, 53, 99, 70, 16, 46, 10, 78, 39, 77, 80]
+Found person 81 in box 94 after 8 attempts
+      person 81 found via [56, 31, 75, 84, 74, 15, 94, 81]
+Found person 82 in box 65 after 22 attempts
+      person 82 found via [83, 51, 97, 12, 35, 92, 49, 60, 13, 88, 3, 37, 86, 42, 11, 20, 17, 19, 8, 43, 65, 82]
+Found person 83 in box 82 after 22 attempts
+      person 83 found via [51, 97, 12, 35, 92, 49, 60, 13, 88, 3, 37, 86, 42, 11, 20, 17, 19, 8, 43, 65, 82, 83]
+Found person 84 in box 75 after 8 attempts
+      person 84 found via [74, 15, 94, 81, 56, 31, 75, 84]
+Found person 85 in box 7 after 19 attempts
+      person 85 found via [4, 30, 33, 25, 55, 38, 98, 57, 2, 72, 44, 14, 24, 67, 59, 34, 90, 7, 85]
+Found person 86 in box 37 after 22 attempts
+      person 86 found via [42, 11, 20, 17, 19, 8, 43, 65, 82, 83, 51, 97, 12, 35, 92, 49, 60, 13, 88, 3, 37, 86]
+Found person 87 in box 61 after 2 attempts
+      person 87 found via [61, 87]
+Found person 88 in box 13 after 22 attempts
+      person 88 found via [3, 37, 86, 42, 11, 20, 17, 19, 8, 43, 65, 82, 83, 51, 97, 12, 35, 92, 49, 60, 13, 88]
+Found person 89 in box 5 after 23 attempts
+      person 89 found via [32, 71, 9, 36, 50, 91, 53, 99, 70, 16, 46, 10, 78, 39, 77, 80, 28, 6, 27, 23, 0, 5, 89]
+Found person 90 in box 34 after 19 attempts
+      person 90 found via [7, 85, 4, 30, 33, 25, 55, 38, 98, 57, 2, 72, 44, 14, 24, 67, 59, 34, 90]
+Found person 91 in box 50 after 23 attempts
+      person 91 found via [53, 99, 70, 16, 46, 10, 78, 39, 77, 80, 28, 6, 27, 23, 0, 5, 89, 32, 71, 9, 36, 50, 91]
+Found person 92 in box 35 after 22 attempts
+      person 92 found via [49, 60, 13, 88, 3, 37, 86, 42, 11, 20, 17, 19, 8, 43, 65, 82, 83, 51, 97, 12, 35, 92]
+Found person 93 in box 93 after 1 attempts
+      person 93 found via [93]
+Found person 94 in box 15 after 8 attempts
+      person 94 found via [81, 56, 31, 75, 84, 74, 15, 94]
+Found person 95 in box 64 after 2 attempts
