@@ -1,4 +1,6 @@
-
+"""
+Role the dice!
+"""
 
 from random import  shuffle
 
@@ -64,31 +66,39 @@ class Game:
 
     def show(self):
         b = list(self.boxes)
-        c = r = 0
-        print("   -----------------------------------------")
-        print("       0   1   2   3   4   5   6   7   8   9")
-        print(f"{r:>4}", end="")
-        while b:
-            if c>= 10:
-                print("")
-                c = 0
-                r+= 1
-                print(f"{r:>4}", end="")
-            print(f"{b.pop():>4}", end="")
-            c+= 1
+        r = 0
+        width = 10
+
+        def row(row_id, values):
+            """ Show a single row """
+            print(f"{row_id:>4} | ", end="")
+            print("".join([f"{v:>4}" for v in values]))
+
+        print("")
+        # Show header (single digits)
+        row("", range(width))
+        # Show solid "-" visual breaker
+        row("--", ("----",) * width)
+
+        while r < self.size:
+            row(r, self.boxes[r:r+width])
+            r += 10
         print("")
 
 
 if __name__ == "__main__":
     win = total = 0
-    for i in range(10000):
-        total +=1 
+    num_games = 1000
+    for i in range(num_games):
         g = Game()
-        g.output = True
+
+        # Less noisy
+        g.output = False
+
         for i, loop in enumerate(g.find_loops()):
             print(f"Loop {i+1}:  Found {len(loop)} entries.   Loop={loop}")
         if g.solve():
             win +=1
-    
-    print(f"Total games {total}.   Won {win/total*100}%")
+
+    print(f"Total games {num_games}.   Won {win/num_games*100}%")
 
